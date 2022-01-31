@@ -1,7 +1,7 @@
-# ❗CSC226 Project
+# MadLibs GUI Game 
 
 **Term**: Fall 2021 
-️**Author(s)**: Paw Ehler Thaw, Alejandro Ramos
+️**Author(s)**: Alejandro Ramos, Paw Ehler Thaw
 
 ️indicates action items; you should remove these emoji as you complete/update the items which they accompany. (This means that your final README should have no ❗️in it!)
 
@@ -37,9 +37,9 @@ https://www.tutorialspoint.com/python/tk_pack.htm - This source helped us unders
 ---
 
 
-## Milestone 1: Setup, Planning, Design (due 1 Dec 2021)
+## Milestone 1: Setup, Planning, Design (1 Dec 2021)
 ️**Title**: What is the title of your project? 
-Madlibs Tkinter
+MadLibs GUI Game
 **Purpose**: In a single sentence, describe what your project will do.
 The program will create a visual representation of the Madlibs program using gui tkinter instead.
 ️**Sources**: Which assignments or code will you base your project on?
@@ -58,13 +58,13 @@ We will base our project off of the t07-madlibs team assignment.
 
 ---
 
-## Milestone 2: Code (due 3 Dec 2021)
+## Milestone 2: Code (3 Dec 2021)
 
 No README action items. You should have some code and a preliminary test suite pushed to your repository. 🙃
 
 ---
 
-## Milestone 3: Virtual Check-In (due 6 Dec 2021)
+## Milestone 3: Virtual Check-In (6 Dec 2021)
 
 Indicate what percentage of the project you have left to complete and how confident you feel. 
 
@@ -79,7 +79,7 @@ the TA lab hours to get help and also reach out to Dr. Shepherd or Dr. Jan.
 
 ---
 
-## Milestone 4: Final Code, Presentation, Demo (due 10 Dec 2021)
+## Milestone 4: Final Code, Presentation, Demo (10 Dec 2021)
 
 ### User Instructions
 In a paragraph, explain how to use your program. Assume the user is starting just   they hit the "Run" button. 
