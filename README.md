@@ -87,6 +87,13 @@ In a paragraph, explain how to use your program. Assume the user is starting jus
 The user would first have to input a family type, an adjective, an object, the times of day, and a type of food.
 Then they hit submit, if all the inputs are correct a sentence that includes their inputs should be printed. If their input is 
 not correct (numbers/special characters) then it would raise an error.
+<img width="323" alt="image" src="https://user-images.githubusercontent.com/89155580/153545710-4be31503-f7cf-4902-b981-093560e22e2f.png">
+
+<img width="305" alt="image" src="https://user-images.githubusercontent.com/89155580/153545786-b7a845a9-f150-44f0-b9ed-b014c61b5c34.png">
+
+<img width="694" alt="image" src="https://user-images.githubusercontent.com/89155580/153546048-f1bba3bf-7370-4cde-bdf5-ea704199ab4c.png">
+
+
 ### Errors and Constraints
 Every program has bugs or features that had to be scrapped for time. Use this section to create a bullet list of all known errors and deficiencies that remain in your code. Bugs found that aren't acknowledged here will be penalized.
 * Because we use .isalpha(), the user can not input a " "(space) in the input. 
