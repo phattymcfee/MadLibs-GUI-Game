@@ -4,7 +4,7 @@
 ️**Author(s)**: Alejandro Ramos, Paw Ehler Thaw
 ---
 
-**References**: 
+# References: 
 The Computer Science TA Laboratory at Berea College.
 
 https://www.geeksforgeeks.org/python-grid-method-in-tkinter/ - This source helped us understand what .grid does and how to modify it.
