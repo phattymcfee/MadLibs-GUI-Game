@@ -5,14 +5,7 @@
 ---
 
 **References**: 
-Throughout this project, you have likely used outside resources. Reference all ideas which are not your own, and describe how you integrated the ideas or code into your program. This includes online sources, people who have helped you, and any other resources that are not solely your own contribution. Update as you go.
-t07(Mad Libs), 
-References - 
-Dr. Shepherd - Dr. Shepherd helped us when we ran into an issue receiving user input and displaying the error boxes when it was invalid. 
-May - May helped our program when we were having an issue with making the error boxes disappear after the user entered valid input after first inputting invalid input. 
-Anish - Anish helped with our object oriented programming structure and test suite, specifically checking the check_input function. 
-Destiney - Destiney was helpful in explaining the project. 
-Collins - Collins helped with the logic of our test suite.
+The Computer Science TA Laboratory at Berea College.
 
 https://www.geeksforgeeks.org/python-grid-method-in-tkinter/ - This source helped us understand what .grid does and how to modify it.
 https://docs.python.org/3/library/tkinter.html - This source provided documentation for the tkinter library and was a helpful reference.
