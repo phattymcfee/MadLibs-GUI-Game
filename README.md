@@ -2,9 +2,6 @@
 
 **Term**: Fall 2021 
 ️**Author(s)**: Alejandro Ramos, Paw Ehler Thaw
-
-️indicates action items; you should remove these emoji as you complete/update the items which they accompany. (This means that your final README should have no ❗️in it!)
-
 ---
 
 **References**: 
